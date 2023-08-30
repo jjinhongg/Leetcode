@@ -2,7 +2,7 @@
 
 I liked the way Grokking the coding interview organized problems into learnable patterns. However, the course is expensive and the majority of the time the problems are copy-pasted from leetcode. As the explanations on leetcode are usually just as good, the course really boils down to being a glorified curated list of leetcode problems.
 
-So below I made a tracker to track my learning progress of leetcode problems that are as close to grokking problems as possible. 
+So below is a tracker that I've made to track my learning progress of leetcode problems that are as close to grokking problems as possible. 
 
 ## Pattern: Sliding Window
 
@@ -163,3 +163,115 @@ So below I made a tracker to track my learning progress of leetcode problems tha
 
 ## Misc
 - [ ] https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+# Questions sorted in order
+Sorting these problems in a learning order can help you build up your skills progressively. I'll try to arrange them in a way that starts with simpler problems and gradually moves to more complex ones within each pattern. Here's how you can approach them:
+
+### Foundational Concepts
+1. [Two Sum](https://leetcode.com/problems/two-sum/) (Two Pointers)
+2. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Sliding Window)
+3. [Binary Search](https://leetcode.com/problems/binary-search/) (Modified Binary Search)
+4. [Single Number](https://leetcode.com/problems/single-number/) (Bitwise XOR)
+5. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (In-place Reversal of a LinkedList)
+6. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (Tree Breadth First Search)
+
+### Sliding Window
+1. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+3. [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+4. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+5. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+6. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+7. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+8. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
+### Two Pointers
+1. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+2. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+3. [3Sum](https://leetcode.com/problems/3sum/)
+4. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+5. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+6. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+7. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+
+### Fast & Slow Pointers
+1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+2. [Happy Number](https://leetcode.com/problems/happy-number/)
+3. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+4. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+5. [Reorder List](https://leetcode.com/problems/reorder-list/)
+
+### Merge Intervals
+1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+2. [Insert Interval](https://leetcode.com/problems/insert-interval/)
+3. [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+4. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+
+### Cyclic Sort
+1. [Missing Number](https://leetcode.com/problems/missing-number/)
+2. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+3. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
+### In-place Reversal of a LinkedList
+1. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+2. [Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+3. [Rotate List](https://leetcode.com/problems/rotate-list/)
+
+### Tree Breadth First Search
+1. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+2. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+3. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+
+### Tree Depth First Search
+1. [Path Sum](https://leetcode.com/problems/path-sum/)
+2. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+3. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+4. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+5. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+### Two Heaps
+1. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+2. [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+3. [IPO](https://leetcode.com/problems/ipo/)
+
+### Subsets
+1. [Subsets](https://leetcode.com/problems/subsets/)
+2. [Subsets II](https://leetcode.com/problems/subsets-ii/)
+3. [Permutations](https://leetcode.com/problems/permutations/)
+4. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+
+### Modified Binary Search
+1. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+2. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+3. [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
+
+### Bitwise XOR
+1. [Single Number III](https://leetcode.com/problems/single-number-iii/)
+2. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+3. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+
+### Top 'K' Elements
+1. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+2. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+3. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+### K-way Merge
+1. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+2. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+
+### 0/1 Knapsack
+1. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+2. [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+3. [Target Sum](https://leetcode.com/problems/target-sum/)
+
+### Topological Sort
+1. [Course Schedule](https://
+
+leetcode.com/problems/course-schedule/)
+2. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+3. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+
+### Misc
+1. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+This should give you a structured way to tackle these problems. Good luck!
