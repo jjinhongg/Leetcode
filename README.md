@@ -7,7 +7,7 @@ So below is a tracker that I've made to track my learning progress of leetcode p
 ## Pattern: Sliding Window
 
 - [x] https://leetcode.com/problems/maximum-subarray/ # Close enough
-- [ ] https://leetcode.com/problems/minimum-size-subarray-sum/
+- [x] https://leetcode.com/problems/minimum-size-subarray-sum/
 - [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [ ] https://leetcode.com/problems/fruit-into-baskets/
 - [ ] https://leetcode.com/problems/longest-substring-without-repeating-characters/
@@ -21,10 +21,10 @@ So below is a tracker that I've made to track my learning progress of leetcode p
 ## Pattern: Two Pointers
 
 - [x] https://leetcode.com/problems/two-sum/
-- [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-- [ ] https://leetcode.com/problems/squares-of-a-sorted-array/
-- [ ] https://leetcode.com/problems/3sum/
-- [ ] https://leetcode.com/problems/3sum-closest/
+- [x] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- [x] https://leetcode.com/problems/squares-of-a-sorted-array/
+- [x] https://leetcode.com/problems/3sum/
+- [x] https://leetcode.com/problems/3sum-closest/
 - [ ] https://leetcode.com/problems/3sum-smaller/
 - [ ] https://leetcode.com/problems/subarray-product-less-than-k/
 - [ ] https://leetcode.com/problems/sort-colors/
@@ -60,14 +60,14 @@ So below is a tracker that I've made to track my learning progress of leetcode p
 - [ ] https://leetcode.com/problems/kth-missing-positive-number/
 
 ## Pattern: In-place Reversal of a LinkedList
-- [ ] https://leetcode.com/problems/reverse-linked-list/
+- [x] https://leetcode.com/problems/reverse-linked-list/
 - [ ] https://leetcode.com/problems/reverse-linked-list-ii/
 - [ ] https://leetcode.com/problems/reverse-nodes-in-k-group/
 - [ ] Next question is the same, but alternate each subgroup
 - [ ] https://leetcode.com/problems/rotate-list/
 
 ## Pattern: Tree Breadth First Search
-- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal/
+- [x] https://leetcode.com/problems/binary-tree-level-order-traversal/
 - [ ] https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 - [ ] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - [ ] https://leetcode.com/problems/minimum-depth-of-binary-tree/
@@ -103,7 +103,7 @@ So below is a tracker that I've made to track my learning progress of leetcode p
 - [ ] https://leetcode.com/problems/unique-binary-search-trees/
 
 ## Pattern: Modified Binary Search
-- [ ] https://leetcode.com/problems/binary-search/  # Close enough. The grokking problem allows sorted input arrays as ascending or descending, which only introduces a simple check
+- [x] https://leetcode.com/problems/binary-search/  # Close enough. The grokking problem allows sorted input arrays as ascending or descending, which only introduces a simple check
 - [ ] Did not find. Problem is find index of smallest element greater or equal to input value
 - [ ] https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 - [ ] https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
@@ -115,7 +115,7 @@ So below is a tracker that I've made to track my learning progress of leetcode p
 - [ ] Similar to previous, but find the number of rotations of the array.
 
 ## Pattern: Bitwise XOR
-- [ ] https://leetcode.com/problems/single-number/
+- [x] https://leetcode.com/problems/single-number/
 - [ ] https://leetcode.com/problems/single-number-iii/
 - [ ] https://leetcode.com/problems/complement-of-base-10-integer/
 - [ ] https://leetcode.com/problems/flipping-an-image/
