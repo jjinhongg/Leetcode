@@ -9,7 +9,7 @@ So below is a tracker that I've made to track my learning progress of leetcode p
 - [x] https://leetcode.com/problems/maximum-subarray/ # Close enough
 - [x] https://leetcode.com/problems/minimum-size-subarray-sum/
 - [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
-- [ ] https://leetcode.com/problems/fruit-into-baskets/
+- [x] https://leetcode.com/problems/fruit-into-baskets/
 - [x] https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - [ ] https://leetcode.com/problems/longest-repeating-character-replacement/
 - [ ] https://leetcode.com/problems/max-consecutive-ones-iii/
