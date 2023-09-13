@@ -33,7 +33,7 @@ So below is a tracker that I've made to track my learning progress of leetcode p
 - [ ] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 ## Pattern: Fast & Slow pointers
-- [ ] https://leetcode.com/problems/linked-list-cycle/
+- [x] https://leetcode.com/problems/linked-list-cycle/
 - [ ] https://leetcode.com/problems/linked-list-cycle-ii/
 - [ ] https://leetcode.com/problems/happy-number/
 - [ ] https://leetcode.com/problems/middle-of-the-linked-list/
