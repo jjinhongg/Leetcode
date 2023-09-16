@@ -1,13 +1,16 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        i = 0
-        while i < len(nums):
-            j = nums[i]
-            if nums[i] < len(nums) and nums[i] != nums[j]:
-                nums[i], nums[j] = nums[j], nums[i]
+        # solve with Hash map
+        n = len(nums)
+        freq = {}
+        for num in nums:
+            if num not in freq:
+                freq[num] = 1
             else:
-                i += 1
-        for i in range(len(nums)):
-            if nums[i] != i:
+                freq[num] += 1
+        for i in range(n):
+            if i not in freq:
                 return i
-        return len(nums)
+            
+        return n
+
