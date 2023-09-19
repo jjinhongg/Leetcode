@@ -51,11 +51,11 @@ So below is a tracker that I've made to track my learning progress of leetcode p
 
 ## Pattern: Cyclic Sort
 
-- [ ] Couldn't find equivalent for the first question. The second question below encompasses the first one though. See https://leetcode.com/problems/missing-number/discuss/859510/C%2B%2B-O(N)-O(1)-using-Cyclic-Sort for how grokking the coding interview approached these problems. It uses the fact that we can sort the array in O(n) without comparison operators
-- [ ] https://leetcode.com/problems/missing-number/
-- [ ] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
-- [ ] https://leetcode.com/problems/find-all-duplicates-in-an-array/
-- [ ] combine https://leetcode.com/problems/find-the-duplicate-number/ and https://leetcode.com/problems/missing-number/
+- [x] Couldn't find equivalent for the first question. The second question below encompasses the first one though. See https://leetcode.com/problems/missing-number/discuss/859510/C%2B%2B-O(N)-O(1)-using-Cyclic-Sort for how grokking the coding interview approached these problems. It uses the fact that we can sort the array in O(n) without comparison operators
+- [x] https://leetcode.com/problems/missing-number/
+- [x] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+- [x] https://leetcode.com/problems/find-all-duplicates-in-an-array/
+- [x] combine https://leetcode.com/problems/find-the-duplicate-number/ and https://leetcode.com/problems/missing-number/
 - [ ] https://leetcode.com/problems/first-missing-positive/
 - [ ] https://leetcode.com/problems/kth-missing-positive-number/
 
