@@ -104,9 +104,9 @@ So below is a tracker that I've made to track my learning progress of leetcode p
 
 ## Pattern: Modified Binary Search
 - [x] https://leetcode.com/problems/binary-search/  # Close enough. The grokking problem allows sorted input arrays as ascending or descending, which only introduces a simple check
-- [ ] Did not find. Problem is find index of smallest element greater or equal to input value
-- [ ] https://leetcode.com/problems/find-smallest-letter-greater-than-target/
-- [ ] https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+- [x] Did not find. Problem is find index of smallest element greater or equal to input value
+- [x] https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+- [x] https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 - [ ] https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/
 - [ ] https://leetcode.com/problems/find-k-closest-elements/ (with K == 1)
 - [ ] https://leetcode.com/problems/peak-index-in-a-mountain-array/
